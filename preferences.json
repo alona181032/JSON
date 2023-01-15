@@ -1,6 +1,11 @@
-{"favorite_film": "Split",
-"favorite_series": "Friends",
-"favorite_food": "French_fries",
-"favorite_season": "summer",
-"favorite_contry": "Spain"
+{
+    "preference":
+        {
+    "favorite_film": "Split",
+    "favorite_series": "Friends",
+    "favorite_food": "French_fries",
+    "favorite_season": "summer",
+    "favorite_contry": "Spain"
+         
+        }
 }

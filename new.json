@@ -1,4 +1,19 @@
-{"person_name": "Alona",
-"person_last_name": "Bohdanets",
-"person_age": "32",
-"pets" : "4"}
+{
+"info":
+	{
+		"about_me":
+			{
+			"person_name": "Alona",
+      "person_last_name": "Bohdanets",
+      "person_age": "32",
+      "pets" : "4"
+			},
+
+		"work":
+			{
+				"position" : "QA Engineer",
+				"salary" : 1000,
+				"currency" : "USD"
+			}
+	}
+}	

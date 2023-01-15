@@ -1,4 +1,31 @@
-{"first_lesson" : "Test_case",
-"second_lesson" : "SQL",
-"third_lesson" : "API",
-"fourth_lesson" : "Git"}
+{
+    "skills":
+  {
+             "1_lesson" : "Basic theory",
+             "2_lesson" : "What is client-server architecture",
+             "3_lesson" : "HTTP Server request methods",
+             "4_lesson" : "HTTP server response codes",
+             "5_lesson" : "HTTP request and response structures",
+             "6_lesson" : "What is JSON, XML. Their structure",
+             "7_lesson" : "API testing via Postman (JS, API autotests)",
+             "8_lesson" : "Removing and reading logs from an external server",
+             "9_lesson" : "Sniffing http web traffic via Charles and Fiddler",
+             "10_lesson" : "Dev Tools of web browsers (Google Chrome, FireFox)",
+             "11_lesson" : "VPN. (How it works, why you need it, how to use it, tool options)",
+             "12_lesson" : "Mobile testing",
+             "13_lesson" : "iOS feature, android, guidelines",
+             "14_lesson" : "Building iOS apps with XCode",
+             "15_lesson" : "Building Android apps with Android Studio",
+             "16_lesson" : "ADB (android device management)",
+             "17_lesson" : "Proxy and vpn setup on iOS and Android",
+             "18_lesson" : "Interception (sniffing) mobile traffic via Charles and Fiddler on iOS and Android",
+             "19_lesson" : "Linux command line (terminal) (copy, create, view, move files on non-GUI servers)",
+             "20_lesson" : "Basic bash scripting, automation of routine tasks on the server",
+             "21_lesson" : "Access to remote servers",
+             "22_lesson" : "SQL Basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join)",
+             "23_lesson" : "Postgres database (installation, configuration and use)",
+             "24_lesson" : "Redis non-relational database (installation, configuration and use)",
+             "25_lesson" : "Load testing in Jmeter",
+             "26_lesson" : "Scrum development methodology"
+  }
+}
